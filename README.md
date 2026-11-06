@@ -9,13 +9,21 @@ A hybrid of the Common Persian and Persian Standard keyboard layouts, preserving
 - **Persian text editing:** Includes useful characters and typing features for a smoother Persian writing and editing experience.
 - **Half-space support:** Supports inserting the Zero Width Non-Joiner (ZWNJ) using `Shift + Space`.
 
+## Keyboard Layout
+
+The following images show the keyboard layout and its available key mappings.
+
+![Keyboard Layout 1](assets/Layout0.png)
+
+![Keyboard Layout 2](assets/Layout1.png)
+
 ## Installation
 
-1. Download `setup.exe` from this repository.
+1. Download the installer: [setup.exe](Persian-For-Virast/setup.exe).
 2. Run the installer.
 3. Follow the installation instructions.
 4. If the new layout does not appear or the changes are not applied immediately, restart Windows.
-5. Select the installed keyboard layout from the Windows language and keyboard settings.
+5. Select **Persian For Virast Keyboard** from the Windows language and keyboard settings.
 
 ## Usage
 
